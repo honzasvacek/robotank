@@ -1,0 +1,10 @@
+{
+  "name": "KoltlarSecuritySRO",
+  "version": "240",
+  "authors": "Ja",
+  "description": "mohutny cikansky robot",
+  "homepage": "",
+  "countryCodes": "cz",
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
